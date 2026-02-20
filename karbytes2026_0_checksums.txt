@@ -16,7 +16,7 @@ file_3: KARLINA_OBJECT_extension_pack_54-main.zip // SHA-256: 03421d84e2c97c1403
 
 file_4: karbytes_human_genome_fasta_part_2-main.zip // SHA-256: 4e62654721dc5fb1a0c1507ac2f686fa0219f73a93d5d3d135c3e12ac62e74a2
 
-file_5: KARLINA_OBJECT_extension_pack_57-main.zip // SHA-256: a3aa76f8550770a372a375f409391e8ecb95c1efedb1ad1f578dec67ef66b589
+file_5: KARLINA_OBJECT_extension_pack_57-main.zip // SHA-256: 4b5621bd8db0ce7101758df34c8bcc22722d5fb9a1cde41e8fb8b35cdbfc28d9
 
 file_6: KARLINA_OBJECT_APPS-main.zip // SHA-256: ef6c27b9ff75bc56b23e881d1766791827fad78e2f0fbc62e0f89bf02c50db3c
 
@@ -36,7 +36,7 @@ file_13: KARBYTES_FOR_LIFE_BLOG-main_20february2026.zip // SHA-256: 47bd441a5f9a
 
 file_14: KARLINA_OBJECT_extension_pack_56-main.zip // SHA-256: d6a7d19a1244352c3a1e494c77cc53c9feda4ddc5b4307a32bf31bd2f8e50e19
 
-file_15: KARLINA_OBJECT_extension_pack_58-main_20february2026.zip // SHA-256: 932e24137088ee370e992d6483124707bd970c7e559e0dc0c1c764e7b1eaebf5
+file_15: KARLINA_OBJECT_extension_pack_58-main_20february2026.zip // SHA-256: 03d00a300d8f7e8ae20021af4da059184539c0e2d4201671d4849a2e4deb1f5a
 
 file_16: reference_human_genome_fasta_hg38-main.zip // SHA-256: f8f0dee1f4317950bd48faebe3028eb0cad8b9d001b82b20b956e51703449d3e
 
