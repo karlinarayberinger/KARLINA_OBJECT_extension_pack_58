@@ -1,0 +1,23 @@
+/**
+ * file: journal_karbytes_21february2026_p0.txt
+ * type: plain-text
+ * date: 21_FEBRUARY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+I decided that the snapshot of the canon karbytes file collection as it is configured at 11:59PM Pacific Standard Time on 20_FEBRUARY_2026 should be the finalized version of the karbytes version named karbytes2026_0.
+
+This note is intended to be incorporated into the karbytes micro-directory named KARLINA_OBJECT_extension_pack_58 (in the karbytes2026_1 version of that (open to future edits) micro-directory (and not in the karbytes2026_0 version of that micro-directory).
+
+Both karbytes2026_0 and karbytes2026_1 are encompassed by the two 25-gigabyte M_DISC-sized collections named "karbytes_origins" and "karbytes_nexus".
+
+"karbytes_origins" was finalized at 11:59PM Pacific Standard Time on 31_DECEMBER_2025 and is represented as the karbytes snapshot named karbytes2025_22.
+
+"karbytes_nexus" is expected to be finalized at 11:59PM Pacific Standard Time on 31_DECEMBER_2026 and is represented as the karbytes snapshot named karbytes2026_[N] (where [N] is a placeholder for some natural number larger than or equal to one (and represented in the snapshot name as a base-ten number (e.g. 1))).
+
+* * *
+
+A time period spanning at least one week (but no longer than six months) starting at 11:59PM Pacific Standard Time on 20_FEBRUARY_2026 is expected to temporally separate karbytes2026_0 and karbytes2026_1.
+
+During that "hiatus period", files which are expected to be incorporated into karbytes2026_1 and which are generated during that "hiatus period" are expected to be stored in the public GitHub repository named projects owned by the GitHub user named @informationcrystals (and saved to at least two 25-gigabyte M_DISCs (and to the WayBack Machine using URLs listed in a plain-text file in projects named temp.txt.

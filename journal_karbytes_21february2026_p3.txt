@@ -1,0 +1,15 @@
+/**
+ * file: journal_karbytes_21february2026_p3.txt
+ * type: plain-text
+ * date: 21_FEBRUARY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_58/main/journal_karbytes_21february2026_p0.txt
+
+I decided to redact only the part of the journal entry (whose URL is displayed above this paragraph) which says that the temporal gap between karbytes2026_0 and karbytes2026_1 is no shorter than one week and no longer than six months.
+
+I decided instead to set that temporal gap to no shorter than 3 hours and no longer than 72 hours. 
+
+
